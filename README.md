@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/manikpokhetra79/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=manikgupta79.manikgupta79)
+![](https://visitor-badge.glitch.me/badge?page_id=maxgupta79.maxgupta79)
 
 
 ## 👨‍💻 Building stuff with 
@@ -38,15 +38,15 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/manikgupta79">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manikgupta79&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manikgupta79&layout=compact&langs_count=8&theme=dracula"/>
+<a href="https://github.com/maxgupta79">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maxgupta79&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maxgupta79&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
 
 -----
 
-Credits: [Manik Pokhetra](https://github.com/manikgupta79/manikgupta79)
+Credits: [Manik Pokhetra](https://github.com/maxgupta79/maxgupta79)
 
 Last Edited on: 12/01/2023
 
