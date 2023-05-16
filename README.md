@@ -13,8 +13,6 @@
   <a href="https://www.linkedin.com/in/manikpokhetra79/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=maxgupta79.maxgupta79)
-
 
 ## 👨‍💻 Building stuff with 
 <p>
@@ -46,7 +44,7 @@
 
 -----
 
-Credits: [Manik Pokhetra](https://github.com/maxgupta79/maxgupta79)
+Credits: [Manik Pokhetra](https://github.com/maxgupta79)
 
 Last Edited on: 12/01/2023
 
